@@ -1,0 +1,22 @@
+{
+  "name": "art-site",
+  "version": "1.0.0",
+  "description": "An art site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theParadox42/art-site-theurer.git"
+  },
+  "keywords": [
+    "Art"
+  ],
+  "author": "Paradox Programming, Porter Theurer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theParadox42/art-site-theurer/issues"
+  },
+  "homepage": "https://github.com/theParadox42/art-site-theurer#readme"
+}
