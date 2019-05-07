@@ -4,3 +4,7 @@ var app = express();
 app.get("/", function(req, res){
     res.send("Home page")
 })
+
+app.listen(process.env.PORT, process.env.IP, function(){
+    console.log("server started")
+})
