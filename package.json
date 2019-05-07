@@ -12,9 +12,10 @@
     "url": "git+https://github.com/theParadox42/art-site-theurer.git"
   },
   "keywords": [
-    "Art"
+    "Art",
+    "Node"
   ],
-  "author": "Paradox Programming, Porter Theurer",
+  "author": "Paradox Programming",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/theParadox42/art-site-theurer/issues"
